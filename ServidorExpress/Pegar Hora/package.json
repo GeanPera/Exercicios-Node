@@ -1,0 +1,11 @@
+{
+  "name": "servidorexpress-pegarhora",
+  "version": "1.0.0",
+  "description": "Pegar Hora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gean Pereira",
+  "license": "ISC"
+}
